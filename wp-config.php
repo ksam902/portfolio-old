@@ -19,11 +19,12 @@
 define('DB_NAME', 'portfolio_site');
 
 /** MySQL database username */
-define('DB_USER', 'portfolio_site');
+define('DB_USER', 'shawana');
+//local: portfolio_site
 
 /** MySQL database password */
-define('DB_PASSWORD', 'ilikebeer');
-
+define('DB_PASSWORD', 'Yp59cV2f');
+//Local: ilikebeer
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
 
